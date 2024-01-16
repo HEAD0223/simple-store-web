@@ -49,6 +49,11 @@ npm start
 
 ## Media
 
+![Simple-Store](./public/preview/Simple-Store.gif)
+![simple-store-web_1](./public/preview/simple-store-web_1.png)
+![simple-store-web_2](./public/preview/simple-store-web_2.png)
+![simple-store-web_3](./public/preview/simple-store-web_3.png)
+
 ## Contributing
 
 If you would like to contribute to this project, please follow these steps:
