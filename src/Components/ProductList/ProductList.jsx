@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useCallback, useState } from 'react';
 import { useTelegram } from '../../hooks/useTelegram';
 import { ProductItem } from '../ProductItem/ProductItem';
 import './ProductList.css';
