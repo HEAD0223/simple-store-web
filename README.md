@@ -2,6 +2,7 @@
 
 ![Client](https://img.shields.io/badge/Client-Simple_Store-brightgreen)
 ![Self Development](https://img.shields.io/badge/Project-Self_Development-red)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4bb6e7c2-02bf-486b-93aa-38c76608cace/deploy-status)](https://app.netlify.com/sites/simple-store-web-app/deploys)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 The Simple Store Client serves as the user interface for the associated Telegram Bot.
